@@ -1,0 +1,301 @@
+"id","number","domain","facet","facet_name","key","text","y","x"
+"I001",1,"N","N1","Anxiety",1,"Worry about things.",1.49,0.1
+"I002",2,"E","E1","Friendliness",1,"Make friends easily.",0.69536954353119,1.19371499373943
+"I003",3,"O","O1","Imagination",1,"Have a vivid imagination.",-0.59036954353119,0.775953040136344
+"I004",4,"A","A1","Trust",1,"Trust others.",-0.59036954353119,-0.575953040136344
+"I005",5,"C","C1","Self-Efficacy",1,"Complete tasks successfully.",0.695369543531189,-0.993714993739427
+"I006",6,"N","N2","Anger",1,"Get angry easily.",1.32,0.394448637286709
+"I007",7,"E","E2","Gregariousness",1,"Love large parties.",0.52536954353119,1.48816363102614
+"I008",8,"O","O2","Artistic Interests",1,"Believe in the importance of art.",-0.76036954353119,1.07040167742305
+"I009",9,"A","A2","Morality",1,"Would never cheat on my taxes.",-0.76036954353119,-0.281504402849635
+"I010",10,"C","C2","Orderliness",1,"Like order.",0.525369543531189,-0.699266356452717
+"I011",11,"N","N3","Depression",1,"Often feel blue.",0.98,0.394448637286709
+"I012",12,"E","E3","Assertiveness",1,"Take charge.",0.18536954353119,1.48816363102614
+"I013",13,"O","O3","Emotionality",1,"Experience my emotions intensely.",-1.10036954353119,1.07040167742305
+"I014",14,"A","A3","Altruism",1,"Make people feel welcome.",-1.10036954353119,-0.281504402849635
+"I015",15,"C","C3","Dutifulness",1,"Try to follow the rules.",0.185369543531189,-0.699266356452717
+"I016",16,"N","N4","Self-Consciousness",1,"Am easily intimidated.",0.81,0.1
+"I017",17,"E","E4","Activity Level",1,"Am always busy.",0.0153695435311895,1.19371499373943
+"I018",18,"O","O4","Adventurousness",1,"Prefer variety to routine.",-1.27036954353119,0.775953040136344
+"I019",19,"A","A4","Cooperation",1,"Am easy to satisfy.",-1.27036954353119,-0.575953040136344
+"I020",20,"C","C4","Achievement-Striving",1,"Go straight for the goal.",0.0153695435311893,-0.993714993739427
+"I021",21,"N","N5","Immoderation",1,"Often eat too much.",0.98,-0.194448637286709
+"I022",22,"E","E5","Excitement-Seeking",1,"Love excitement.",0.185369543531189,0.899266356452717
+"I023",23,"O","O5","Intellect",1,"Like to solve complex problems.",-1.10036954353119,0.481504402849635
+"I024",24,"A","A5","Modesty",1,"Dislike being the center of attention.",-1.10036954353119,-0.870401677423053
+"I025",25,"C","C5","Self-Discipline",1,"Get chores done right away.",0.185369543531189,-1.28816363102614
+"I026",26,"N","N6","Vulnerability",1,"Panic easily.",1.32,-0.194448637286709
+"I027",27,"E","E6","Cheerfulness",1,"Radiate joy.",0.52536954353119,0.899266356452717
+"I028",28,"O","O6","Liberalism",1,"Tend to vote for liberal political candidates.",-0.76036954353119,0.481504402849635
+"I029",29,"A","A6","Sympathy",1,"Sympathize with the homeless.",-0.76036954353119,-0.870401677423053
+"I030",30,"C","C6","Cautiousness",1,"Avoid mistakes.",0.525369543531189,-1.28816363102614
+"I031",31,"N","N1","Anxiety",1,"Fear for the worst.",1.54877852522925,0.0809016994374949
+"I032",32,"E","E1","Friendliness",1,"Warm up quickly to others.",0.754148068760437,1.17461669317692
+"I033",33,"O","O1","Imagination",1,"Enjoy wild flights of fantasy.",-0.531591018301942,0.756854739573839
+"I034",34,"A","A1","Trust",1,"Believe that others have good intentions.",-0.531591018301942,-0.595051340698849
+"I035",35,"C","C1","Self-Efficacy",1,"Excel in what I do.",0.754148068760437,-1.01281329430193
+"I036",36,"N","N2","Anger",1,"Get irritated easily.",1.37877852522925,0.375350336724204
+"I037",37,"E","E2","Gregariousness",1,"Talk to a lot of different people at parties.",0.584148068760437,1.46906533046363
+"I038",38,"O","O2","Artistic Interests",1,"Like music.",-0.701591018301942,1.05130337686055
+"I039",39,"A","A2","Morality",1,"Stick to the rules.",-0.701591018301942,-0.30060270341214
+"I040",40,"C","C2","Orderliness",1,"Like to tidy up.",0.584148068760437,-0.718364657015223
+"I041",41,"N","N3","Depression",1,"Dislike myself.",1.03877852522925,0.375350336724204
+"I042",42,"E","E3","Assertiveness",1,"Try to lead others.",0.244148068760437,1.46906533046363
+"I043",43,"O","O3","Emotionality",1,"Feel others' emotions.",-1.04159101830194,1.05130337686055
+"I044",44,"A","A3","Altruism",1,"Anticipate the needs of others.",-1.04159101830194,-0.30060270341214
+"I045",45,"C","C3","Dutifulness",1,"Keep my promises.",0.244148068760437,-0.718364657015223
+"I046",46,"N","N4","Self-Consciousness",1,"Am afraid that I will do the wrong thing.",0.868778525229247,0.0809016994374949
+"I047",47,"E","E4","Activity Level",1,"Am always on the go.",0.0741480687604368,1.17461669317692
+"I048",48,"O","O4","Adventurousness",1,"Like to visit new places.",-1.21159101830194,0.756854739573839
+"I049",49,"A","A4","Cooperation",1,"Can't stand confrontations.",-1.21159101830194,-0.595051340698849
+"I050",50,"C","C4","Achievement-Striving",1,"Work hard.",0.0741480687604366,-1.01281329430193
+"I051",51,"N","N5","Immoderation",1,"Don't know why I do some of the things I do.",1.03877852522925,-0.213546937849214
+"I052",52,"E","E5","Excitement-Seeking",1,"Seek adventure.",0.244148068760437,0.880168055890212
+"I053",53,"O","O5","Intellect",1,"Love to read challenging material.",-1.04159101830194,0.46240610228713
+"I054",54,"A","A5","Modesty",1,"Dislike talking about myself.",-1.04159101830194,-0.889499977985558
+"I055",55,"C","C5","Self-Discipline",1,"Am always prepared.",0.244148068760437,-1.30726193158864
+"I056",56,"N","N6","Vulnerability",1,"Become overwhelmed by events.",1.37877852522925,-0.213546937849214
+"I057",57,"E","E6","Cheerfulness",1,"Have a lot of fun.",0.584148068760437,0.880168055890212
+"I058",58,"O","O6","Liberalism",1,"Believe that there is no absolute right or wrong.",-0.701591018301942,0.46240610228713
+"I059",59,"A","A6","Sympathy",1,"Feel sympathy for those who are worse off than myself.",-0.701591018301942,-0.889499977985558
+"I060",60,"C","C6","Cautiousness",1,"Choose my words with care.",0.584148068760437,-1.30726193158864
+"I061",61,"N","N1","Anxiety",1,"Am afraid of many things.",1.58510565162952,0.0309016994374948
+"I062",62,"E","E1","Friendliness",1,"Feel comfortable around people.",0.790475195160705,1.12461669317692
+"I063",63,"O","O1","Imagination",1,"Love to daydream.",-0.495263891901674,0.706854739573839
+"I064",64,"A","A1","Trust",1,"Trust what people say.",-0.495263891901674,-0.645051340698849
+"I065",65,"C","C1","Self-Efficacy",1,"Handle tasks smoothly.",0.790475195160705,-1.06281329430193
+"I066",66,"N","N2","Anger",1,"Get upset easily.",1.41510565162952,0.325350336724204
+"I067",67,"E","E2","Gregariousness",1,"Enjoy being part of a group.",0.620475195160705,1.41906533046363
+"I068",68,"O","O2","Artistic Interests",1,"See beauty in things that others might not notice.",-0.665263891901674,1.00130337686055
+"I069",69,"A","A2","Morality",-1,"Use flattery to get ahead.",-0.665263891901674,-0.35060270341214
+"I070",70,"C","C2","Orderliness",1,"Want everything to be ""just right.""",0.620475195160705,-0.768364657015223
+"I071",71,"N","N3","Depression",1,"Am often down in the dumps.",1.07510565162952,0.325350336724204
+"I072",72,"E","E3","Assertiveness",1,"Can talk others into doing things.",0.280475195160705,1.41906533046363
+"I073",73,"O","O3","Emotionality",1,"Am passionate about causes.",-1.00526389190167,1.00130337686055
+"I074",74,"A","A3","Altruism",1,"Love to help others.",-1.00526389190167,-0.35060270341214
+"I075",75,"C","C3","Dutifulness",1,"Pay my bills on time.",0.280475195160705,-0.768364657015223
+"I076",76,"N","N4","Self-Consciousness",1,"Find it difficult to approach others.",0.905105651629515,0.0309016994374948
+"I077",77,"E","E4","Activity Level",1,"Do a lot in my spare time.",0.110475195160705,1.12461669317692
+"I078",78,"O","O4","Adventurousness",1,"Interested in many things.",-1.17526389190167,0.706854739573839
+"I079",79,"A","A4","Cooperation",1,"Hate to seem pushy.",-1.17526389190167,-0.645051340698849
+"I080",80,"C","C4","Achievement-Striving",1,"Turn plans into actions.",0.110475195160705,-1.06281329430193
+"I081",81,"N","N5","Immoderation",1,"Do things I later regret.",1.07510565162952,-0.263546937849214
+"I082",82,"E","E5","Excitement-Seeking",1,"Love action.",0.280475195160705,0.830168055890212
+"I083",83,"O","O5","Intellect",1,"Have a rich vocabulary.",-1.00526389190167,0.41240610228713
+"I084",84,"A","A5","Modesty",1,"Consider myself an average person.",-1.00526389190167,-0.939499977985558
+"I085",85,"C","C5","Self-Discipline",1,"Start tasks right away.",0.280475195160705,-1.35726193158864
+"I086",86,"N","N6","Vulnerability",1,"Feel that I'm unable to deal with things.",1.41510565162952,-0.263546937849214
+"I087",87,"E","E6","Cheerfulness",1,"Express childlike joy.",0.620475195160705,0.830168055890212
+"I088",88,"O","O6","Liberalism",1,"Believe that criminals should receive help rather than punishment.",-0.665263891901674,0.41240610228713
+"I089",89,"A","A6","Sympathy",1,"Value cooperation over competition.",-0.665263891901674,-0.939499977985558
+"I090",90,"C","C6","Cautiousness",1,"Stick to my chosen path.",0.620475195160705,-1.35726193158864
+"I091",91,"N","N1","Anxiety",1,"Get stressed out easily.",1.58510565162952,-0.0309016994374946
+"I092",92,"E","E1","Friendliness",1,"Act comfortably with others.",0.790475195160705,1.06281329430193
+"I093",93,"O","O1","Imagination",1,"Like to get lost in thought.",-0.495263891901674,0.645051340698849
+"I094",94,"A","A1","Trust",1,"Believe that people are basically moral.",-0.495263891901674,-0.706854739573839
+"I095",95,"C","C1","Self-Efficacy",1,"Am sure of my ground.",0.790475195160705,-1.12461669317692
+"I096",96,"N","N2","Anger",1,"Am often in a bad mood.",1.41510565162952,0.263546937849215
+"I097",97,"E","E2","Gregariousness",1,"Involve others in what I am doing.",0.620475195160705,1.35726193158864
+"I098",98,"O","O2","Artistic Interests",1,"Love flowers.",-0.665263891901674,0.939499977985559
+"I099",99,"A","A2","Morality",-1,"Use others for my own ends.",-0.665263891901674,-0.41240610228713
+"I100",100,"C","C2","Orderliness",1,"Love order and regularity.",0.620475195160705,-0.830168055890212
+"I101",101,"N","N3","Depression",1,"Have a low opinion of myself.",1.07510565162952,0.263546937849215
+"I102",102,"E","E3","Assertiveness",1,"Seek to influence others.",0.280475195160705,1.35726193158864
+"I103",103,"O","O3","Emotionality",1,"Enjoy examining myself and my life.",-1.00526389190167,0.939499977985559
+"I104",104,"A","A3","Altruism",1,"Am concerned about others.",-1.00526389190167,-0.41240610228713
+"I105",105,"C","C3","Dutifulness",1,"Tell the truth.",0.280475195160705,-0.830168055890212
+"I106",106,"N","N4","Self-Consciousness",1,"Am afraid to draw attention to myself.",0.905105651629515,-0.0309016994374946
+"I107",107,"E","E4","Activity Level",1,"Can manage many things at the same time.",0.110475195160705,1.06281329430193
+"I108",108,"O","O4","Adventurousness",1,"Like to begin new things.",-1.17526389190167,0.645051340698849
+"I109",109,"A","A4","Cooperation",-1,"Have a sharp tongue.",-1.17526389190167,-0.706854739573839
+"I110",110,"C","C4","Achievement-Striving",1,"Plunge into tasks with all my heart.",0.110475195160705,-1.12461669317692
+"I111",111,"N","N5","Immoderation",1,"Go on binges.",1.07510565162952,-0.325350336724204
+"I112",112,"E","E5","Excitement-Seeking",1,"Enjoy being part of a loud crowd.",0.280475195160705,0.768364657015222
+"I113",113,"O","O5","Intellect",1,"Can handle a lot of information.",-1.00526389190167,0.35060270341214
+"I114",114,"A","A5","Modesty",1,"Seldom toot my own horn.",-1.00526389190167,-1.00130337686055
+"I115",115,"C","C5","Self-Discipline",1,"Get to work at once.",0.280475195160705,-1.41906533046363
+"I116",116,"N","N6","Vulnerability",1,"Can't make up my mind.",1.41510565162952,-0.325350336724204
+"I117",117,"E","E6","Cheerfulness",1,"Laugh my way through life.",0.620475195160705,0.768364657015222
+"I118",118,"O","O6","Liberalism",-1,"Believe in one true religion.",-0.665263891901674,0.35060270341214
+"I119",119,"A","A6","Sympathy",1,"Suffer from others' sorrows.",-0.665263891901674,-1.00130337686055
+"I120",120,"C","C6","Cautiousness",-1,"Jump into things without thinking.",0.620475195160705,-1.41906533046363
+"I121",121,"N","N1","Anxiety",1,"Get caught up in my problems.",1.54877852522925,-0.0809016994374946
+"I122",122,"E","E1","Friendliness",1,"Cheer people up.",0.754148068760437,1.01281329430193
+"I123",123,"O","O1","Imagination",1,"Indulge in my fantasies.",-0.531591018301942,0.595051340698849
+"I124",124,"A","A1","Trust",1,"Believe in human goodness.",-0.531591018301942,-0.756854739573839
+"I125",125,"C","C1","Self-Efficacy",1,"Come up with good solutions.",0.754148068760437,-1.17461669317692
+"I126",126,"N","N2","Anger",1,"Lose my temper.",1.37877852522925,0.213546937849214
+"I127",127,"E","E2","Gregariousness",1,"Love surprise parties.",0.584148068760437,1.30726193158864
+"I128",128,"O","O2","Artistic Interests",1,"Enjoy the beauty of nature.",-0.701591018301942,0.889499977985559
+"I129",129,"A","A2","Morality",-1,"Know how to get around the rules.",-0.701591018301942,-0.46240610228713
+"I130",130,"C","C2","Orderliness",1,"Do things according to a plan.",0.584148068760437,-0.880168055890212
+"I131",131,"N","N3","Depression",1,"Have frequent mood swings.",1.03877852522925,0.213546937849214
+"I132",132,"E","E3","Assertiveness",1,"Take control of things.",0.244148068760437,1.30726193158864
+"I133",133,"O","O3","Emotionality",1,"Try to understand myself.",-1.04159101830194,0.889499977985559
+"I134",134,"A","A3","Altruism",1,"Have a good word for everyone.",-1.04159101830194,-0.46240610228713
+"I135",135,"C","C3","Dutifulness",1,"Listen to my conscience.",0.244148068760437,-0.880168055890212
+"I136",136,"N","N4","Self-Consciousness",1,"Only feel comfortable with friends.",0.868778525229247,-0.0809016994374946
+"I137",137,"E","E4","Activity Level",1,"React quickly.",0.0741480687604368,1.01281329430193
+"I138",138,"O","O4","Adventurousness",-1,"Prefer to stick with things that I know.",-1.21159101830194,0.595051340698849
+"I139",139,"A","A4","Cooperation",-1,"Contradict others.",-1.21159101830194,-0.756854739573839
+"I140",140,"C","C4","Achievement-Striving",1,"Do more than what's expected of me.",0.0741480687604366,-1.17461669317692
+"I141",141,"N","N5","Immoderation",1,"Love to eat.",1.03877852522925,-0.375350336724204
+"I142",142,"E","E5","Excitement-Seeking",1,"Enjoy being reckless.",0.244148068760437,0.718364657015223
+"I143",143,"O","O5","Intellect",1,"Enjoy thinking about things.",-1.04159101830194,0.30060270341214
+"I144",144,"A","A5","Modesty",-1,"Believe that I am better than others.",-1.04159101830194,-1.05130337686055
+"I145",145,"C","C5","Self-Discipline",1,"Carry out my plans.",0.244148068760437,-1.46906533046363
+"I146",146,"N","N6","Vulnerability",1,"Get overwhelmed by emotions.",1.37877852522925,-0.375350336724204
+"I147",147,"E","E6","Cheerfulness",1,"Love life.",0.584148068760437,0.718364657015222
+"I148",148,"O","O6","Liberalism",-1,"Tend to vote for conservative political candidates.",-0.701591018301942,0.30060270341214
+"I149",149,"A","A6","Sympathy",-1,"Am not interested in other people's problems.",-0.701591018301942,-1.05130337686055
+"I150",150,"C","C6","Cautiousness",-1,"Make rash decisions.",0.584148068760437,-1.46906533046363
+"I151",151,"N","N1","Anxiety",-1,"Am not easily bothered by things.",1.49,-0.0999999999999999
+"I152",152,"E","E1","Friendliness",-1,"Am hard to get to know.",0.69536954353119,0.993714993739426
+"I153",153,"O","O1","Imagination",1,"Spend time reflecting on things.",-0.59036954353119,0.575953040136344
+"I154",154,"A","A1","Trust",1,"Think that all will be well.",-0.59036954353119,-0.775953040136344
+"I155",155,"C","C1","Self-Efficacy",1,"Know how to get things done.",0.695369543531189,-1.19371499373943
+"I156",156,"N","N2","Anger",-1,"Rarely get irritated.",1.32,0.194448637286709
+"I157",157,"E","E2","Gregariousness",-1,"Prefer to be alone.",0.52536954353119,1.28816363102614
+"I158",158,"O","O2","Artistic Interests",-1,"Do not like art.",-0.76036954353119,0.870401677423053
+"I159",159,"A","A2","Morality",-1,"Cheat to get ahead.",-0.76036954353119,-0.481504402849635
+"I160",160,"C","C2","Orderliness",-1,"Often forget to put things back in their proper place.",0.525369543531189,-0.899266356452717
+"I161",161,"N","N3","Depression",1,"Feel desperate.",0.98,0.194448637286709
+"I162",162,"E","E3","Assertiveness",-1,"Wait for others to lead the way.",0.18536954353119,1.28816363102614
+"I163",163,"O","O3","Emotionality",-1,"Seldom get emotional.",-1.10036954353119,0.870401677423053
+"I164",164,"A","A3","Altruism",-1,"Look down on others.",-1.10036954353119,-0.481504402849635
+"I165",165,"C","C3","Dutifulness",-1,"Break rules.",0.185369543531189,-0.899266356452717
+"I166",166,"N","N4","Self-Consciousness",1,"Stumble over my words.",0.81,-0.0999999999999999
+"I167",167,"E","E4","Activity Level",-1,"Like to take it easy.",0.0153695435311895,0.993714993739426
+"I168",168,"O","O4","Adventurousness",-1,"Dislike changes.",-1.27036954353119,0.575953040136344
+"I169",169,"A","A4","Cooperation",-1,"Love a good fight.",-1.27036954353119,-0.775953040136344
+"I170",170,"C","C4","Achievement-Striving",1,"Set high standards for myself and others.",0.0153695435311893,-1.19371499373943
+"I171",171,"N","N5","Immoderation",-1,"Rarely overindulge.",0.98,-0.394448637286709
+"I172",172,"E","E5","Excitement-Seeking",1,"Act wild and crazy.",0.185369543531189,0.699266356452717
+"I173",173,"O","O5","Intellect",-1,"Am not interested in abstract ideas.",-1.10036954353119,0.281504402849635
+"I174",174,"A","A5","Modesty",-1,"Think highly of myself.",-1.10036954353119,-1.07040167742305
+"I175",175,"C","C5","Self-Discipline",-1,"Find it difficult to get down to work.",0.185369543531189,-1.48816363102614
+"I176",176,"N","N6","Vulnerability",-1,"Remain calm under pressure.",1.32,-0.394448637286709
+"I177",177,"E","E6","Cheerfulness",1,"Look at the bright side of life.",0.52536954353119,0.699266356452717
+"I178",178,"O","O6","Liberalism",-1,"Believe that too much tax money goes to support artists.",-0.76036954353119,0.281504402849635
+"I179",179,"A","A6","Sympathy",-1,"Tend to dislike soft-hearted people.",-0.76036954353119,-1.07040167742305
+"I180",180,"C","C6","Cautiousness",-1,"Like to act on a whim.",0.525369543531189,-1.48816363102614
+"I181",181,"N","N1","Anxiety",-1,"Am relaxed most of the time.",1.43122147477075,-0.0809016994374947
+"I182",182,"E","E1","Friendliness",-1,"Often feel uncomfortable around others.",0.636591018301942,1.01281329430193
+"I183",183,"O","O1","Imagination",-1,"Seldom daydream.",-0.649148068760437,0.595051340698849
+"I184",184,"A","A1","Trust",-1,"Distrust people.",-0.649148068760437,-0.756854739573839
+"I185",185,"C","C1","Self-Efficacy",-1,"Misjudge situations.",0.636591018301942,-1.17461669317692
+"I186",186,"N","N2","Anger",-1,"Seldom get mad.",1.26122147477075,0.213546937849214
+"I187",187,"E","E2","Gregariousness",-1,"Want to be left alone.",0.466591018301942,1.30726193158864
+"I188",188,"O","O2","Artistic Interests",-1,"Do not like poetry.",-0.819148068760437,0.889499977985559
+"I189",189,"A","A2","Morality",-1,"Put people under pressure.",-0.819148068760437,-0.46240610228713
+"I190",190,"C","C2","Orderliness",-1,"Leave a mess in my room.",0.466591018301942,-0.880168055890212
+"I191",191,"N","N3","Depression",1,"Feel that my life lacks direction.",0.921221474770753,0.213546937849214
+"I192",192,"E","E3","Assertiveness",-1,"Keep in the background.",0.126591018301942,1.30726193158864
+"I193",193,"O","O3","Emotionality",-1,"Am not easily affected by my emotions.",-1.15914806876044,0.889499977985559
+"I194",194,"A","A3","Altruism",-1,"Am indifferent to the feelings of others.",-1.15914806876044,-0.46240610228713
+"I195",195,"C","C3","Dutifulness",-1,"Break my promises.",0.126591018301942,-0.880168055890212
+"I196",196,"N","N4","Self-Consciousness",-1,"Am not embarrassed easily.",0.751221474770753,-0.0809016994374947
+"I197",197,"E","E4","Activity Level",-1,"Like to take my time.",-0.0434089816980578,1.01281329430193
+"I198",198,"O","O4","Adventurousness",-1,"Don't like the idea of change.",-1.32914806876044,0.595051340698849
+"I199",199,"A","A4","Cooperation",-1,"Yell at people.",-1.32914806876044,-0.756854739573839
+"I200",200,"C","C4","Achievement-Striving",1,"Demand quality.",-0.043408981698058,-1.17461669317692
+"I201",201,"N","N5","Immoderation",-1,"Easily resist temptations.",0.921221474770752,-0.375350336724204
+"I202",202,"E","E5","Excitement-Seeking",1,"Willing to try anything once.",0.126591018301942,0.718364657015222
+"I203",203,"O","O5","Intellect",-1,"Avoid philosophical discussions.",-1.15914806876044,0.30060270341214
+"I204",204,"A","A5","Modesty",-1,"Have a high opinion of myself.",-1.15914806876044,-1.05130337686055
+"I205",205,"C","C5","Self-Discipline",-1,"Waste my time.",0.126591018301942,-1.46906533046363
+"I206",206,"N","N6","Vulnerability",-1,"Can handle complex problems.",1.26122147477075,-0.375350336724204
+"I207",207,"E","E6","Cheerfulness",1,"Laugh aloud.",0.466591018301942,0.718364657015222
+"I208",208,"O","O6","Liberalism",-1,"Believe laws should be strictly enforced.",-0.819148068760437,0.30060270341214
+"I209",209,"A","A6","Sympathy",-1,"Believe in an eye for an eye.",-0.819148068760437,-1.05130337686055
+"I210",210,"C","C6","Cautiousness",-1,"Rush into things.",0.466591018301942,-1.46906533046363
+"I211",211,"N","N1","Anxiety",-1,"Am not easily disturbed by events.",1.39489434837048,-0.0309016994374947
+"I212",212,"E","E1","Friendliness",-1,"Avoid contacts with others.",0.600263891901674,1.06281329430193
+"I213",213,"O","O1","Imagination",-1,"Do not have a good imagination.",-0.685475195160705,0.645051340698849
+"I214",214,"A","A1","Trust",-1,"Suspect hidden motives in others.",-0.685475195160705,-0.706854739573839
+"I215",215,"C","C1","Self-Efficacy",-1,"Don't understand things.",0.600263891901674,-1.12461669317692
+"I216",216,"N","N2","Anger",-1,"Am not easily annoyed.",1.22489434837048,0.263546937849214
+"I217",217,"E","E2","Gregariousness",-1,"Don't like crowded events.",0.430263891901674,1.35726193158864
+"I218",218,"O","O2","Artistic Interests",-1,"Do not enjoy going to art museums.",-0.855475195160705,0.939499977985559
+"I219",219,"A","A2","Morality",-1,"Pretend to be concerned for others.",-0.855475195160705,-0.41240610228713
+"I220",220,"C","C2","Orderliness",-1,"Leave my belongings around.",0.430263891901674,-0.830168055890212
+"I221",221,"N","N3","Depression",-1,"Seldom feel blue.",0.884894348370485,0.263546937849214
+"I222",222,"E","E3","Assertiveness",-1,"Have little to say.",0.0902638919016742,1.35726193158864
+"I223",223,"O","O3","Emotionality",-1,"Rarely notice my emotional reactions.",-1.1954751951607,0.939499977985559
+"I224",224,"A","A3","Altruism",-1,"Make people feel uncomfortable.",-1.1954751951607,-0.41240610228713
+"I225",225,"C","C3","Dutifulness",-1,"Get others to do my duties.",0.090263891901674,-0.830168055890212
+"I226",226,"N","N4","Self-Consciousness",-1,"Am comfortable in unfamiliar situations.",0.714894348370484,-0.0309016994374947
+"I227",227,"E","E4","Activity Level",-1,"Like a leisurely lifestyle.",-0.0797361080983259,1.06281329430193
+"I228",228,"O","O4","Adventurousness",-1,"Am a creature of habit.",-1.3654751951607,0.645051340698849
+"I229",229,"A","A4","Cooperation",-1,"Insult people.",-1.3654751951607,-0.706854739573839
+"I230",230,"C","C4","Achievement-Striving",-1,"Am not highly motivated to succeed.",-0.079736108098326,-1.12461669317692
+"I231",231,"N","N5","Immoderation",-1,"Am able to control my cravings.",0.884894348370484,-0.325350336724204
+"I232",232,"E","E5","Excitement-Seeking",1,"Seek danger.",0.090263891901674,0.768364657015222
+"I233",233,"O","O5","Intellect",-1,"Have difficulty understanding abstract ideas.",-1.1954751951607,0.35060270341214
+"I234",234,"A","A5","Modesty",-1,"Know the answers to many questions.",-1.1954751951607,-1.00130337686055
+"I235",235,"C","C5","Self-Discipline",-1,"Need a push to get started.",0.0902638919016738,-1.41906533046363
+"I236",236,"N","N6","Vulnerability",-1,"Know how to cope.",1.22489434837048,-0.325350336724204
+"I237",237,"E","E6","Cheerfulness",1,"Amuse my friends.",0.430263891901674,0.768364657015222
+"I238",238,"O","O6","Liberalism",-1,"Believe that we coddle criminals too much.",-0.855475195160705,0.35060270341214
+"I239",239,"A","A6","Sympathy",-1,"Try not to think about the needy.",-0.855475195160705,-1.00130337686055
+"I240",240,"C","C6","Cautiousness",-1,"Do crazy things.",0.430263891901674,-1.41906533046363
+"I241",241,"N","N1","Anxiety",-1,"Don't worry about things that have already happened.",1.39489434837048,0.0309016994374948
+"I242",242,"E","E1","Friendliness",-1,"Am not really interested in others.",0.600263891901674,1.12461669317692
+"I243",243,"O","O1","Imagination",-1,"Seldom get lost in thought.",-0.685475195160705,0.706854739573839
+"I244",244,"A","A1","Trust",-1,"Am wary of others.",-0.685475195160705,-0.645051340698849
+"I245",245,"C","C1","Self-Efficacy",-1,"Have little to contribute.",0.600263891901674,-1.06281329430193
+"I246",246,"N","N2","Anger",-1,"Keep my cool.",1.22489434837048,0.325350336724204
+"I247",247,"E","E2","Gregariousness",-1,"Avoid crowds.",0.430263891901674,1.41906533046363
+"I248",248,"O","O2","Artistic Interests",-1,"Do not like concerts.",-0.855475195160705,1.00130337686055
+"I249",249,"A","A2","Morality",-1,"Take advantage of others.",-0.855475195160705,-0.35060270341214
+"I250",250,"C","C2","Orderliness",-1,"Am not bothered by messy people.",0.430263891901674,-0.768364657015223
+"I251",251,"N","N3","Depression",-1,"Feel comfortable with myself.",0.884894348370485,0.325350336724204
+"I252",252,"E","E3","Assertiveness",-1,"Don't like to draw attention to myself.",0.0902638919016742,1.41906533046363
+"I253",253,"O","O3","Emotionality",-1,"Experience very few emotional highs and lows.",-1.1954751951607,1.00130337686055
+"I254",254,"A","A3","Altruism",-1,"Turn my back on others.",-1.1954751951607,-0.35060270341214
+"I255",255,"C","C3","Dutifulness",-1,"Do the opposite of what is asked.",0.090263891901674,-0.768364657015223
+"I256",256,"N","N4","Self-Consciousness",-1,"Am not bothered by difficult social situations.",0.714894348370484,0.0309016994374948
+"I257",257,"E","E4","Activity Level",-1,"Let things proceed at their own pace.",-0.0797361080983259,1.12461669317692
+"I258",258,"O","O4","Adventurousness",-1,"Dislike new foods.",-1.3654751951607,0.706854739573839
+"I259",259,"A","A4","Cooperation",-1,"Get back at others.",-1.3654751951607,-0.645051340698849
+"I260",260,"C","C4","Achievement-Striving",-1,"Do just enough work to get by.",-0.0797361080983261,-1.06281329430193
+"I261",261,"N","N5","Immoderation",-1,"Never spend more than I can afford.",0.884894348370484,-0.263546937849214
+"I262",262,"E","E5","Excitement-Seeking",-1,"Would never go hang gliding or bungee jumping.",0.090263891901674,0.830168055890212
+"I263",263,"O","O5","Intellect",-1,"Am not interested in theoretical discussions.",-1.1954751951607,0.41240610228713
+"I264",264,"A","A5","Modesty",-1,"Boast about my virtues.",-1.1954751951607,-0.939499977985558
+"I265",265,"C","C5","Self-Discipline",-1,"Have difficulty starting tasks.",0.0902638919016738,-1.35726193158864
+"I266",266,"N","N6","Vulnerability",-1,"Readily overcome setbacks.",1.22489434837048,-0.263546937849214
+"I267",267,"E","E6","Cheerfulness",-1,"Am not easily amused.",0.430263891901674,0.830168055890212
+"I268",268,"O","O6","Liberalism",-1,"Believe that we should be tough on crime.",-0.855475195160705,0.41240610228713
+"I269",269,"A","A6","Sympathy",-1,"Believe people should fend for themselves.",-0.855475195160705,-0.939499977985558
+"I270",270,"C","C6","Cautiousness",-1,"Act without thinking.",0.430263891901674,-1.35726193158864
+"I271",271,"N","N1","Anxiety",-1,"Adapt easily to new situations.",1.43122147477075,0.0809016994374948
+"I272",272,"E","E1","Friendliness",-1,"Keep others at a distance.",0.636591018301942,1.17461669317692
+"I273",273,"O","O1","Imagination",-1,"Have difficulty imagining things.",-0.649148068760437,0.756854739573839
+"I274",274,"A","A1","Trust",-1,"Believe that people are essentially evil.",-0.649148068760437,-0.595051340698849
+"I275",275,"C","C1","Self-Efficacy",-1,"Don't see the consequences of things.",0.636591018301942,-1.01281329430193
+"I276",276,"N","N2","Anger",-1,"Rarely complain.",1.26122147477075,0.375350336724204
+"I277",277,"E","E2","Gregariousness",-1,"Seek quiet.",0.466591018301942,1.46906533046363
+"I278",278,"O","O2","Artistic Interests",-1,"Do not enjoy watching dance performances.",-0.819148068760437,1.05130337686055
+"I279",279,"A","A2","Morality",-1,"Obstruct others' plans.",-0.819148068760437,-0.30060270341214
+"I280",280,"C","C2","Orderliness",-1,"Am not bothered by disorder.",0.466591018301942,-0.718364657015223
+"I281",281,"N","N3","Depression",-1,"Am very pleased with myself.",0.921221474770753,0.375350336724204
+"I282",282,"E","E3","Assertiveness",-1,"Hold back my opinions.",0.126591018301942,1.46906533046363
+"I283",283,"O","O3","Emotionality",-1,"Don't understand people who get emotional.",-1.15914806876044,1.05130337686055
+"I284",284,"A","A3","Altruism",-1,"Take no time for others.",-1.15914806876044,-0.30060270341214
+"I285",285,"C","C3","Dutifulness",-1,"Misrepresent the facts.",0.126591018301942,-0.718364657015223
+"I286",286,"N","N4","Self-Consciousness",-1,"Am able to stand up for myself.",0.751221474770753,0.0809016994374948
+"I287",287,"E","E4","Activity Level",-1,"React slowly.",-0.0434089816980579,1.17461669317692
+"I288",288,"O","O4","Adventurousness",-1,"Am attached to conventional ways.",-1.32914806876044,0.756854739573839
+"I289",289,"A","A4","Cooperation",-1,"Hold a grudge.",-1.32914806876044,-0.595051340698849
+"I290",290,"C","C4","Achievement-Striving",-1,"Put little time and effort into my work.",-0.043408981698058,-1.01281329430193
+"I291",291,"N","N5","Immoderation",-1,"Never splurge.",0.921221474770752,-0.213546937849214
+"I292",292,"E","E5","Excitement-Seeking",-1,"Dislike loud music.",0.126591018301942,0.880168055890212
+"I293",293,"O","O5","Intellect",-1,"Avoid difficult reading material.",-1.15914806876044,0.46240610228713
+"I294",294,"A","A5","Modesty",-1,"Make myself the center of attention.",-1.15914806876044,-0.889499977985558
+"I295",295,"C","C5","Self-Discipline",-1,"Postpone decisions.",0.126591018301942,-1.30726193158864
+"I296",296,"N","N6","Vulnerability",-1,"Am calm even in tense situations.",1.26122147477075,-0.213546937849214
+"I297",297,"E","E6","Cheerfulness",-1,"Seldom joke around.",0.466591018301942,0.880168055890212
+"I298",298,"O","O6","Liberalism",-1,"Like to stand during the national anthem.",-0.819148068760437,0.46240610228713
+"I299",299,"A","A6","Sympathy",-1,"Can't stand weak people.",-0.819148068760437,-0.889499977985558
+"I300",300,"C","C6","Cautiousness",-1,"Often make last-minute plans.",0.466591018301942,-1.30726193158864

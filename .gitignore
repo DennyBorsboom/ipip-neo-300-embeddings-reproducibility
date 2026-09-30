@@ -1,0 +1,7 @@
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+inputs/*.sav
+results/raw/bootnet_fits.rds
+*.zip

@@ -1,0 +1,5 @@
+New manuscript, analysis code, figures and result tables: Creative Commons Attribution 4.0 International (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.
+
+Third-party inputs retain their original terms. IPIP item wording is public domain. Johnson source data and workbooks are attributed in inputs/sources.csv and README.md; no new license is asserted over those inputs. Jina weights are not included; frozen model outputs are identified by model and provenance.
+
+Reproducibility archive version 1.0.0, released with the author's authorization. The accompanying manuscript remains an unpublished research draft; archive availability does not imply peer review.

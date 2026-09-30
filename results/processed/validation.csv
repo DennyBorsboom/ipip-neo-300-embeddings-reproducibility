@@ -1,0 +1,71 @@
+"check","value","pass"
+"300 unique item ids","300",TRUE
+"44850 unique pairs","44850",TRUE
+"complete cases","7325",TRUE
+"bootnet correlation versus independent cor","7.82707232360735e-15",TRUE
+"bootnet partial versus independent solve","2.10109707410311e-14",TRUE
+"empirical_cor symmetric","0",TRUE
+"empirical_cor finite","0",TRUE
+"empirical_pcor symmetric","0",TRUE
+"empirical_pcor finite","0",TRUE
+"semantic_cosine symmetric","0",TRUE
+"semantic_cosine finite","0",TRUE
+"semantic_partial symmetric","1.11022302462516e-16",TRUE
+"semantic_partial finite","0",TRUE
+"semantic_ridge_0.01 symmetric","1.11022302462516e-16",TRUE
+"semantic_ridge_0.01 finite","0",TRUE
+"semantic_ridge_0.05 symmetric","5.55111512312578e-17",TRUE
+"semantic_ridge_0.05 finite","0",TRUE
+"semantic_ridge_0.1 symmetric","5.55111512312578e-17",TRUE
+"semantic_ridge_0.1 finite","0",TRUE
+"semantic_centered symmetric","0",TRUE
+"semantic_centered finite","0",TRUE
+"spearman_cor symmetric","0",TRUE
+"spearman_cor finite","0",TRUE
+"pairwise_cor symmetric","0",TRUE
+"pairwise_cor finite","0",TRUE
+"spearman_pcor symmetric","0",TRUE
+"spearman_pcor finite","0",TRUE
+"pairwise_pcor symmetric","0",TRUE
+"pairwise_pcor finite","0",TRUE
+"frozen embeddings reproduce cosine","0",TRUE
+"residual cosine 1:31","1.62647673107585e-14",TRUE
+"residual cosine 2:212","2.82586454236622e-14",TRUE
+"residual cosine 9:99","2.21940521516473e-14",TRUE
+"headline r cor cosine","0.226632611373168",TRUE
+"headline r cor partial","0.0760009658810714",TRUE
+"headline r pcor cosine","0.156573954508741",TRUE
+"headline r pcor partial","0.109338162205253",TRUE
+"wording agrees with author questionnaire","0",TRUE
+"independent scoring workbook keys","0",TRUE
+"every panel uses identical saved positions","0",TRUE
+"500 bootstrap replicates per empirical network","500,500",TRUE
+"magnitude alignment cor cosine","0.377089500981222",TRUE
+"raw semantic versus empirical magnitude cor cosine","0.377089500981222",TRUE
+"magnitude resampling range cor cosine","3.88578058618805e-16",TRUE
+"magnitude alignment cor partial","0.188845849762943",TRUE
+"raw semantic versus empirical magnitude cor partial","0.139363636528332",TRUE
+"magnitude resampling range cor partial","2.22044604925031e-16",TRUE
+"magnitude alignment pcor cosine","0.258415170126609",TRUE
+"raw semantic versus empirical magnitude pcor cosine","0.258415170126609",TRUE
+"magnitude resampling range pcor cosine","3.60822483003176e-16",TRUE
+"magnitude alignment pcor partial","0.34323823082302",TRUE
+"raw semantic versus empirical magnitude pcor partial","0.281879504174552",TRUE
+"magnitude resampling range pcor partial","3.33066907387547e-16",TRUE
+"sign branch count and correlation cor cosine positive","23995 0.4619142",TRUE
+"sign branch count and correlation cor cosine negative","20855 -0.2526764",TRUE
+"sign branch count and correlation cor partial positive","23995 0.1835154",TRUE
+"sign branch count and correlation cor partial negative","20855 -0.07584646",TRUE
+"sign branch count and correlation pcor cosine positive","24161 0.3159203",TRUE
+"sign branch count and correlation pcor cosine negative","20689 -0.1487078",TRUE
+"sign branch count and correlation pcor partial positive","24161 0.3113533",TRUE
+"sign branch count and correlation pcor partial negative","20689 -0.2330527",TRUE
+"all scatterplot observations fall within displayed unit bounds","-0.723481132269423,0.949482992363014",TRUE
+"all raw cosine values are positive","0.233251223638431",TRUE
+"six converged matched-comparison curves","6",TRUE
+"bounded quadratic curve cor pooled","1.66533453693773e-15",TRUE
+"bounded quadratic curve cor positive","2.88657986402541e-15",TRUE
+"bounded quadratic curve cor negative","2.72004641033163e-15",TRUE
+"bounded quadratic curve pcor pooled","1.4432899320127e-15",TRUE
+"bounded quadratic curve pcor positive","1.4432899320127e-15",TRUE
+"bounded quadratic curve pcor negative","1.77635683940025e-15",TRUE
