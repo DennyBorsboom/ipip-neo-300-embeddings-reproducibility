@@ -6,9 +6,9 @@ authors:
   - name: "OpenAI Codex (GPT-6), AI co-author"
   - family-names: Borsboom
     given-names: Denny
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-10-30"
 license: CC-BY-4.0
 repository-code: "https://github.com/DennyBorsboom/ipip-neo-300-embeddings-reproducibility"
-url: "https://github.com/DennyBorsboom/ipip-neo-300-embeddings-reproducibility/releases/tag/v1.0.0"
+url: "https://github.com/DennyBorsboom/ipip-neo-300-embeddings-reproducibility/releases/tag/v1.0.1"
 abstract: "Reproducible bootnet comparisons of IPIP-NEO-300 empirical correlations and frozen embedding correlations, with item responses, exact wording, saved embeddings, 1,000 bootstrap estimates, results, and figures. The accompanying manuscript is an unpublished research draft."

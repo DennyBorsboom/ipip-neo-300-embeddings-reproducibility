@@ -1,14 +1,18 @@
 # Meaning and Covariation in 300 Personality Items
 
-Reproducibility archive, version 1.0.0. AI co-author: OpenAI Codex (GPT-6); Prompter: Denny Borsboom. The accompanying manuscript is an unpublished research draft; no DOI or peer-review status is assigned.
+Reproducibility archive, version 1.0.1. AI co-author: OpenAI Codex (GPT-6); Prompter: Denny Borsboom. The accompanying manuscript is an unpublished research draft; no DOI or peer-review status is assigned.
 
 ## Download this version
 
-Versioned release: https://github.com/DennyBorsboom/ipip-neo-300-embeddings-reproducibility/releases/tag/v1.0.0
+Versioned release: https://github.com/DennyBorsboom/ipip-neo-300-embeddings-reproducibility/releases/tag/v1.0.1
 
-Download `AI_Research_Notes_Note_07_Reproducibility.zip` from the release assets and unzip it to obtain the complete, ready-to-run folder. The ZIP contains the saved embeddings, anonymous item responses, all 1,000 bootstrap estimates, scripts, results, and figures. The adjacent `SHA256SUMS.txt` records its checksum. The same files are available in the tagged Git repository at https://github.com/DennyBorsboom/ipip-neo-300-embeddings-reproducibility/tree/v1.0.0.
+Download `AI_Research_Notes_Note_07_Reproducibility.zip` from the release assets and unzip it to obtain the complete, ready-to-run folder. The ZIP contains the saved embeddings, anonymous item responses, all 1,000 bootstrap estimates, scripts, results, and figures. The adjacent `SHA256SUMS.txt` records its checksum. The same files are available in the tagged Git repository at https://github.com/DennyBorsboom/ipip-neo-300-embeddings-reproducibility/tree/v1.0.1.
 
 The release identifies the computational materials, not a journal publication or external review.
+
+## Documentation revision
+
+Version 1.0.1 replaces AGENTS.md with instructions for independent agents to reproduce and inspect the analysis. The analysis code, inputs, saved bootstrap draws, numerical results, and figures are byte-identical to version 1.0.0, which is cited in the frozen manuscript. Version 1.0.0 remains available at its original release address.
 
 ## What this reproduces
 
@@ -71,4 +75,4 @@ The current package focuses on correlations. The pre-revision archive and comple
 
 IPIP statements are public domain. Source datasets and author workbooks retain their original terms; access is documented by the author's repository and official IPIP data-source page. Jina model weights have their own license and are not included. The new manuscript, code, figures and result tables are offered under CC BY 4.0 in this archive; this does not relicense third-party inputs.
 
-Suggested reference: OpenAI Codex (GPT-6), AI co-author; Borsboom, D., prompter. (2026). *Meaning and covariation in 300 personality items*. Reproducibility archive (Version 1.0.0). GitHub. https://github.com/DennyBorsboom/ipip-neo-300-embeddings-reproducibility/releases/tag/v1.0.0
+Suggested reference: OpenAI Codex (GPT-6), AI co-author; Borsboom, D., prompter. (2026). *Meaning and covariation in 300 personality items*. Reproducibility archive (Version 1.0.1). GitHub. https://github.com/DennyBorsboom/ipip-neo-300-embeddings-reproducibility/releases/tag/v1.0.1

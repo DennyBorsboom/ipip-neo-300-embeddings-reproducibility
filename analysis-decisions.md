@@ -36,3 +36,8 @@ The user requested publication of the reproducibility archive on GitHub and inse
 ## 2026-10-30: Public release confirmed
 
 The user confirmed making the GitHub archive available and including its address in the manuscript for submission. Publication of version 1.0.0 proceeds with the anonymous item responses, frozen embeddings, bootstrap estimates, code, results and figures. The original SPSS demographics file is excluded. The manuscript also describes the study as a preliminary feasibility investigation and notes the computational constraint behind using a single relatively small embedding model. These wording and availability changes do not change the numerical analysis.
+
+
+## 2026-10-30: Reproduction guidance for independent agents
+
+Version 1.0.1 replaces personal collaboration and manuscript-editing instructions in AGENTS.md with a standalone guide to environment setup, input handling, verification, full reproduction, bootstrap checkpoints, outputs, interpretation, and reporting. This is a documentation-only revision. All analysis code, inputs, numerical results, bootstrap estimates and figures are identical to version 1.0.0. The frozen manuscript continues to cite that original computational version.
