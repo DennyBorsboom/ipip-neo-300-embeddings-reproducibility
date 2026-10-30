@@ -7,7 +7,7 @@ authors:
   - family-names: Borsboom
     given-names: Denny
 version: "1.0.0"
-date-released: "2026-09-30"
+date-released: "2026-10-30"
 license: CC-BY-4.0
 repository-code: "https://github.com/DennyBorsboom/ipip-neo-300-embeddings-reproducibility"
 url: "https://github.com/DennyBorsboom/ipip-neo-300-embeddings-reproducibility/releases/tag/v1.0.0"

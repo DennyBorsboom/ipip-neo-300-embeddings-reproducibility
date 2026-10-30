@@ -19,7 +19,7 @@ Be friendly, creative, and clear. Explain computational work in ordinary languag
 - Keep the PDF metadata, Markdown source, LaTeX template, README and citation metadata consistent with these credits.
 - Use APA author-date citations and verify scholarly references against primary sources.
 - Cite Messick’s 1989 “Validity” book chapter alongside his 1995 article when discussing validity.
-- The user authorized publication of the reproducibility archive on GitHub on 30 September 2026. This does not authorize journal submission or claim external review or a DOI. Further changes to the archive should preserve released tags and use a new version when appropriate.
+- The user authorized publication of the reproducibility archive on GitHub on 30 October 2026. This does not authorize journal submission or claim external review or a DOI. Further changes to the archive should preserve released tags and use a new version when appropriate.
 
 ## Reader and terminology
 

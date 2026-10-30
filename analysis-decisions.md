@@ -28,6 +28,11 @@ This is a retrospective, shortened record for the correlation-focused archive, p
 The manuscript is a standalone private draft with AI co-author OpenAI Codex (GPT-6), followed by Prompter Denny Borsboom. The generic label is AI RESEARCH NOTE. Note 7 remains solely in folder and file names. Main-text emphasis uses italics. The Introduction and Discussion address semantic similarity; Methods define the operationalization, and Results report embedding correlations. The exact item appendix and all analysis inputs preserve source wording. The paper explains unfamiliar concepts for personality researchers, includes Messick (1989, 1995) and Markus and Borsboom (2013), and makes no claim to public preregistration, peer review or publication.
 
 
-## 2026-09-30: Author-authorized public reproducibility archive
+## 2026-09-30: Prepared reproducibility archive for GitHub
 
 The user requested publication of the reproducibility archive on GitHub and insertion of its HTTP address in the paper. Version 1.0.0 contains the correlation-focused analysis and saved inputs and draws. The versioned release is https://github.com/DennyBorsboom/ipip-neo-300-embeddings-reproducibility/releases/tag/v1.0.0. No journal submission, DOI, or external peer-review claim is made. All numerical inputs, scripts, results and figures remain unchanged from the independently reproduced version.
+
+
+## 2026-10-30: Public release confirmed
+
+The user confirmed making the GitHub archive available and including its address in the manuscript for submission. Publication of version 1.0.0 proceeds with the anonymous item responses, frozen embeddings, bootstrap estimates, code, results and figures. The original SPSS demographics file is excluded. The manuscript also describes the study as a preliminary feasibility investigation and notes the computational constraint behind using a single relatively small embedding model. These wording and availability changes do not change the numerical analysis.
